@@ -1,2 +1,3 @@
 # streamlitdeploy
 streamlitdeploy
+huggingfacedeploy
